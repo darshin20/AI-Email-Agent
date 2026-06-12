@@ -1,0 +1,9 @@
+{
+  "name": "ai-email-agent",
+  "version": "1.0.0",
+  "main": "scripts/emailProcessor.js",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}

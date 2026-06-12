@@ -1,0 +1,14 @@
+{
+  "name": "AI Email Digest Workflow",
+  "steps": [
+    {
+      "node": "Gmail Trigger"
+    },
+    {
+      "node": "Gemini AI Summarizer"
+    },
+    {
+      "node": "Telegram Sender"
+    }
+  ]
+}
